@@ -41,6 +41,9 @@
             <a href="#contact" class="bg-pink-600 text-white px-6 py-3 rounded-full hover:bg-pink-700 transition duration-300">予約する</a>
         </section>
 
+
+        <img src="andrea-donato-lJFLGirYwV0-unsplash.jpg">
+
         <section id="services" class="py-16">
             <h2 class="text-3xl font-bold text-center text-gray-800 mb-12">サービス内容</h2>
             <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
@@ -181,12 +184,11 @@
             </div>
         </section>
 
-<img src="andrea-donato-lJFLGirYwV0-unsplash.jpg" alt="Hair styling tools and accessories on a table">
-            <img src="https://raw.githubusercontent.com/username/repository/branch/path/to/image.jpg" alt="様なツールでお好みの仕上がりにいたします。">
-
 <footer>
     <p>&copy; 2024 SakuraBeautyInc. All Rights Reserved.</p>
 </footer>
 
-</body>
+            
+            
+</body> 
 </html>
