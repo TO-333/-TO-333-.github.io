@@ -181,6 +181,11 @@
             </div>
         </section>
 
+                    <img src="andrea-donato-lJFLGirYwV0-unsplash.jpg" alt="Hair styling tools and accessories on a table">
+            <img src="https://raw.githubusercontent.com/username/repository/branch/path/to/image.jpg" alt="Description of the image">
+
+            ![Description of the image](https://raw.githubusercontent.com/username/repository/branch/path/to/image.jpg)
+
 <footer>
     <p>&copy; 2024 SakuraBeautyInc. All Rights Reserved.</p>
 </footer>
