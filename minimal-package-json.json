@@ -1,0 +1,10 @@
+{
+  "name": "sakura-beauty-onsen-salon",
+  "version": "1.0.0",
+  "description": "A static website for a Japanese beauty salon",
+  "scripts": {
+    "build": "echo 'No build step required for static HTML'"
+  },
+  "author": "",
+  "license": "ISC"
+}
